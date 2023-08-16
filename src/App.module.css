@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.App-main {
+  flex: 1 0 auto;
+}
+
+.App-footer {
+  flex-shrink: 0;
+}
+
+/* .counter {
+
+} */
